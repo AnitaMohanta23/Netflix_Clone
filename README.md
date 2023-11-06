@@ -9,6 +9,12 @@ This is the core code from scratch to clone the landing page of Netflix using **
 ![image](https://github.com/AnitaMohanta23/Netflix_Clone/assets/124444765/e9f632f8-d82b-41ac-b861-3244416612b9)
 ![image](https://github.com/AnitaMohanta23/Netflix_Clone/assets/124444765/0dbada17-4bfe-4132-a0bf-45c7f26a9d11)
 
+## Authors
+- LinkedIn -[Anita Mohanta]( https://linkedin.com/in/anita-mohanta-643717228)
+- Github -[AnitaMohanta23](https://github.com/AnitaMohanta23/My_portfolio)
+
+
+
 
 
 ## All the best! 🥇
@@ -18,3 +24,4 @@ This is the core code from scratch to clone the landing page of Netflix using **
 [![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/AnitaMohanta23/Netflix_Clone)
 
 </p>
+
